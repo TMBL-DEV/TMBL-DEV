@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @da-tokkies
+- 👋 Hi, I’m Tim Blommestijn
 - 👀 I’m interested in
   Making laravel applications with a vue frontend (with tailwindcss).</br>
   But im also intrested where javascript and typescript are going with backend development.
