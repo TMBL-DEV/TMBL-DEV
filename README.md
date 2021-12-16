@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning
   - Laravel
   - Vue
-  - Express
+  - Nestjs
 - 💞️ I’m looking to collaborate on
   Projects with friends and opensource projects that intrest me.  
 <!---
